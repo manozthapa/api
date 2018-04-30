@@ -179,6 +179,9 @@ return [
 
         // Dingo Laravel service provider....
         Dingo\Api\Provider\LaravelServiceProvider::class,
+
+        //tinker
+        
     ],
 
     /*
